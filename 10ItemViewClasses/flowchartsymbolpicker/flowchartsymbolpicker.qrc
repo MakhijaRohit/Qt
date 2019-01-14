@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>data.png</file>
+        <file>decision.png</file>
+        <file>document.png</file>
+        <file>manual-input.png</file>
+        <file>manual-operation.png</file>
+        <file>on-page-reference.png</file>
+        <file>predefined-process.png</file>
+        <file>preparation.png</file>
+        <file>printer.png</file>
+        <file>process.png</file>
+    </qresource>
+</RCC>
